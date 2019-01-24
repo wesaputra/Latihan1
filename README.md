@@ -1,8 +1,8 @@
 ## latihan1
 
 # Apa Itu GIT ?
-![git hub](https://user-images.githubusercontent.com/46749030/51700548-04aeb680-2042-11e9-9e88-c948877a0bf7.png)
-  
+![git-logo-1788c](https://user-images.githubusercontent.com/46749030/51702282-fb274d80-2045-11e9-8951-9a27f177f9ba.png)
+
   GIT adalah pengontrol versi yang bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. GIT dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database GIT tidak hanya berada dalam satu tempat saja.
 
 
@@ -15,19 +15,19 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
 ## Beberapa Perintah Pada GIT
 
-  1.	git init, perintah untuk membuat repository local.
-  2.	git add, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
-  3.	git commit, perintah untuk menyimpan perubahan kedalam database git.
-  4.	git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository.
-  5.	git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
-  6.	git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory).
+  1.	*git init*, perintah untuk membuat repository local.
+  2.	*git add*, perintah untuk menambahkan file baru, atau perubahan pada file pada staging sebelum proses commit.
+  3.	*git commit*, perintah untuk menyimpan perubahan kedalam database git.
+  4.	*git push* -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository.
+  5.	*git clone [url]*, perintah untuk membuat working directory yang diambil dari repositry sever.
+  6.	*git remote add origin [url]*, perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory).
 
 
 ## Langkah-Langkah Menggunakan GIT
 
 1.	Klik kanan pada Desktop, Klik “Git Bash Here”
 
-![1](https://user-images.githubusercontent.com/46749030/51700727-72f37900-2042-11e9-8b5b-b8ef437ddf49.jpg)
+![1 bener](https://user-images.githubusercontent.com/46749030/51702285-fd89a780-2045-11e9-9ddb-3bff52edce89.jpg)
 
 2.	Akan tampil command prompt seperti ini :
 
