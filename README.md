@@ -103,6 +103,8 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
 ![sekian](https://user-images.githubusercontent.com/46749030/51701664-7b4cb380-2044-11e9-927b-ca4d7ec4175d.jpg)
 
-WAHYU EKA SAPUTRA
-311810030
-TI 18 B.1
+# WAHYU EKA SAPUTRA
+
+# 311810030
+
+# TI 18 B.1
